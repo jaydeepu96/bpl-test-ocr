@@ -1,0 +1,67 @@
+.ocr-container {
+  background-color: rgb(6, 6, 91);
+  padding: 20px;
+  border-radius: 5px;
+  color: white;
+  font-family: Arial, sans-serif;
+  max-width: 1100px; 
+  margin: 0 auto;
+  text-align: center;
+}
+
+.ocr-header {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.file-upload-container {
+  display: flex;
+  justify-content: space-between; 
+  gap: 20px; 
+}
+
+.file-upload {
+  flex: 1; 
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.ocr-input {
+  margin-bottom: 10px;
+  padding: 8px;
+  border: none;
+  background-color: #fff;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.ocr-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  margin-top: 20px;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.ocr-button:hover {
+  background-color: #45a049;
+}
+
+.ocr-error {
+  color: red;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.diff-result {
+  margin-top: 20px;
+}

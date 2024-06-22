@@ -1,0 +1,13 @@
+.comparison-container {
+    padding: 20px;
+}
+
+.comparison-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.comparison-result {
+    white-space: pre-wrap;
+    font-family: monospace;
+}

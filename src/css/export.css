@@ -1,0 +1,34 @@
+.export-container {
+  background-color: rgb(23, 29, 25);
+  padding: 20px;
+  border-radius: 5px;
+  color: white;
+  font-family: Arial, sans-serif;
+  max-width: 730px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.export-header {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.export-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.export-button:hover {
+  background-color: #45a049;
+}
